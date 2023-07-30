@@ -50,6 +50,7 @@ Resources :
 - A* [wiki](https://en.wikipedia.org/wiki/A*_search_algorithm)
 - MCTS [wiki](https://en.wikipedia.org/wiki/Monte_Carlo_tree_search)
 - RL [wiki](https://en.wikipedia.org/wiki/Reinforcement_learning)
+- [heap](https://docs.python.org/3/library/heapq.html)
 
 ## Links :
 
